@@ -1,4 +1,4 @@
-# Bates Solutions : Example - Common Components
+# Microservices Example - Common Components
 
 ## Publishing to NPM
 
