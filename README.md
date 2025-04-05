@@ -1,4 +1,4 @@
-# Bates Solutions : Common Example
+# Bates Solutions : Example - Common Components
 
 ## Publishing to NPM
 
