@@ -1,4 +1,4 @@
-# Microservices Example - Common Components
+# Microservices : Example Common Components
 
 ## Publishing to NPM
 
