@@ -1,7 +1,7 @@
 {
   "name": "@bates-solutions/common-example",
   "version": "1.0.5",
-  "description": "Common libraries for Bates Platform example app",
+  "description": "Common components for Bates Platform example app",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
